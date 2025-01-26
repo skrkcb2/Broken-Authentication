@@ -18,9 +18,9 @@
 ![captcha](https://github.com/user-attachments/assets/a378fdd7-4f02-4ac4-b0de-db2f8c88ba4e)
 #### API 추가 컨트롤러
 ![captcha-con](https://github.com/user-attachments/assets/15970529-33d6-4322-90b9-35cdd288884a)
-#### API Service
+#### API 추가Service
 ![captcha-serv](https://github.com/user-attachments/assets/1e9e7c00-f106-4282-8b9c-7076fab6fa95)
-#### API VO
+#### API 추가 VO
 ![captcha-vo](https://github.com/user-attachments/assets/b22e3cfe-e5a1-45b9-a3ef-e7dd08406e85)
 
 

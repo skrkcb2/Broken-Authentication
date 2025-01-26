@@ -23,7 +23,7 @@
 #### API 추가 VO
 ![captcha-vo](https://github.com/user-attachments/assets/b22e3cfe-e5a1-45b9-a3ef-e7dd08406e85)
 
-#### MFA 추가 시 인증 우회 방지, 봇 방지(무차별 공격), 계정 잠금 및 타임아웃, 로그인 시도 제한, 로그인 요소 이중화 등 Broken-Authentication에 문제점의 9할은 막아주면 나머지 1할은 그저 구글 API정도의 문제이다.
+#### MFA 추가 시 인증 우회 방지, 봇 방지(무차별 공격), 계정 잠금 및 타임아웃, 로그인 시도 제한, 로그인 요소 이중화, 실패 시 패턴 진화 등 Broken-Authentication에 문제점을 매우 효과적으로 막아준다.(개발자의 설정에 따라 다르다).
 
 
 
